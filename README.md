@@ -1,6 +1,12 @@
 # Movie Diary - 个人观影记录系统
 
 一个完整的观影记录管理平台，支持从豆瓣抓取观影数据、手动添加电影、AI 分析观影性格、智能推荐等功能。
+<img width="1695" height="1031" alt="image" src="https://github.com/user-attachments/assets/4b827736-acd8-4864-8f7e-9d7e68bb3d2f" />
+<img width="1622" height="1042" alt="image" src="https://github.com/user-attachments/assets/806aacc4-c231-4ffe-9ad6-bba6d9217f91" />
+<img width="1869" height="1026" alt="image" src="https://github.com/user-attachments/assets/27a75cd4-eedc-43a1-8bf3-adbf26f808d8" />
+
+
+
 
 ## 功能特性
 
