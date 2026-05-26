@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+dist/
+.claude/
+output/
+backend/data/
+backend/static/uploads/
+backend/static/exports/
+*.db
+.env
+.DS_Store
+Thumbs.db
